@@ -1,0 +1,22 @@
+{
+    "name": "op-1",
+    "displayName": "op-1",
+    "description": "Minimal Dark Theme based on Teenage Engineering's OP-1",
+    "version": "0.0.3",
+    "publisher": "aterruso",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OP-1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OP-1-color-theme.json"
+            }
+        ]
+    }
+}
