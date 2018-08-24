@@ -3,9 +3,9 @@ Minimal Dark Theme based on Teenage Engineering's OP-1
 
 ##### Full support coming soon.
 
-![HTML Screenshot](screens/html.png "HTML Screenshot")
-![CSS Screenshot](screens/css.png "CSS Screenshot")
-![JS Screenshot](screens/js.png "JS Screenshot")
+![HTML Screenshot](https://github.com/discrete-projects/op-1/blob/master/screens/html.png?raw=true "HTML Screenshot")
+![CSS Screenshot](https://github.com/discrete-projects/op-1/blob/master/screens/css.png?raw=true "CSS Screenshot")
+![JS Screenshot](https://github.com/discrete-projects/op-1/blob/master/screens/js.png?raw=true "JS Screenshot")
 
 
 * [Teenage Engineering's OP-1](https://www.teenageengineering.com/products/op-1)

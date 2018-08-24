@@ -2,8 +2,9 @@
     "name": "op-1",
     "displayName": "op-1",
     "description": "Minimal Dark Theme based on Teenage Engineering's OP-1",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "aterruso",
+    "repository": "https://github.com/discrete-projects/op-1",
     "engines": {
         "vscode": "^1.26.0"
     },
@@ -16,6 +17,13 @@
                 "label": "OP-1",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OP-1-color-theme.json"
+            }
+        ],    
+        "iconThemes": [
+            {
+                "id": "OP1-Icon",
+                "label": "OP1-Icon",
+                "path": "./screens/op1-icon.svg"
             }
         ]
     }
