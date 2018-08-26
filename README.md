@@ -1,5 +1,6 @@
 # OP-1
-Minimal Dark Theme based on Teenage Engineering's OP-1
+Minimal Dark Theme based on Teenage Engineering's OP-1 Sythesizer. 
+
 
 ##### Full support coming soon.
 

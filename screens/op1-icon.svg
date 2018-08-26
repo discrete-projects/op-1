@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="608px" height="608px" viewBox="0 0 608 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
+    <title>Artboard Copy</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#1A1919" x="0" y="0" width="304" height="304"></rect>
-        <rect id="Rectangle-Copy" fill="#45CE77" x="304" y="0" width="304" height="304"></rect>
-        <rect id="Rectangle-Copy-2" fill="#F75330" x="304" y="304" width="304" height="304"></rect>
-        <rect id="Rectangle-Copy-3" fill="#19BCFF" x="0" y="304" width="304" height="304"></rect>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="128" height="128"></rect>
+        <rect id="Rectangle-Copy-3" fill="#19BCFF" x="-435" y="-450" width="613" height="613"></rect>
     </g>
 </svg>

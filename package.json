@@ -2,7 +2,7 @@
     "name": "op-1",
     "displayName": "op-1",
     "description": "Minimal Dark Theme based on Teenage Engineering's OP-1",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "publisher": "aterruso",
     "repository": "https://github.com/discrete-projects/op-1",
     "engines": {
@@ -11,6 +11,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "op1-icon.png",
     "contributes": {
         "themes": [
             {
